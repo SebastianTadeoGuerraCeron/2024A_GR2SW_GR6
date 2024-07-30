@@ -1,0 +1,11 @@
+Model Information:
+* title:	House Corridor Interior
+* source:	https://sketchfab.com/3d-models/house-corridor-interior-720a4c19d2ab471a935057415888ab1d
+* author:	ETBENO (https://sketchfab.com/yulaflibiskuvi)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "House Corridor Interior" (https://sketchfab.com/3d-models/house-corridor-interior-720a4c19d2ab471a935057415888ab1d) by ETBENO (https://sketchfab.com/yulaflibiskuvi) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
