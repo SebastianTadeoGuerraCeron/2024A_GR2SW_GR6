@@ -1,0 +1,11 @@
+Model Information:
+* title:	Papers WIP
+* source:	https://sketchfab.com/3d-models/papers-wip-ef6bdf9c783240378c0f7677e74541a0
+* author:	GroundZer0 (https://sketchfab.com/GroundZer0)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Papers WIP" (https://sketchfab.com/3d-models/papers-wip-ef6bdf9c783240378c0f7677e74541a0) by GroundZer0 (https://sketchfab.com/GroundZer0) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)

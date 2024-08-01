@@ -1,0 +1,11 @@
+Model Information:
+* title:	Vino Tinto Casa Cisca
+* source:	https://sketchfab.com/3d-models/vino-tinto-casa-cisca-fdfd8c64d6b543369e430388b97b139c
+* author:	anaa_ggarcia (https://sketchfab.com/anagarciaon)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Vino Tinto Casa Cisca" (https://sketchfab.com/3d-models/vino-tinto-casa-cisca-fdfd8c64d6b543369e430388b97b139c) by anaa_ggarcia (https://sketchfab.com/anagarciaon) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)

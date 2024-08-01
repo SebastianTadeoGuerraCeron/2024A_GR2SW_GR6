@@ -1,0 +1,11 @@
+Model Information:
+* title:	Scattered Papers
+* source:	https://sketchfab.com/3d-models/scattered-papers-624c7d2a8be94eb4a1cec1b040bc6b6f
+* author:	aysenaz (https://sketchfab.com/Aysenazkara)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Scattered Papers" (https://sketchfab.com/3d-models/scattered-papers-624c7d2a8be94eb4a1cec1b040bc6b6f) by aysenaz (https://sketchfab.com/Aysenazkara) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
