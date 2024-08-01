@@ -1,0 +1,11 @@
+Model Information:
+* title:	papeles_test003
+* source:	https://sketchfab.com/3d-models/papeles-test003-90d94a3ef4ad4f5aa330cf272b99e4f7
+* author:	Design Factory (https://sketchfab.com/SrColmillo)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "papeles_test003" (https://sketchfab.com/3d-models/papeles-test003-90d94a3ef4ad4f5aa330cf272b99e4f7) by Design Factory (https://sketchfab.com/SrColmillo) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
