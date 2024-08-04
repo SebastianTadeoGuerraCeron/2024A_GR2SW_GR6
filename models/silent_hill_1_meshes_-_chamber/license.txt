@@ -1,0 +1,11 @@
+Model Information:
+* title:	Chamber Candlestick
+* source:	https://sketchfab.com/3d-models/chamber-candlestick-2638fcd848c341d593dd0c5c5d4cf323
+* author:	owlik (https://sketchfab.com/owlik)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Chamber Candlestick" (https://sketchfab.com/3d-models/chamber-candlestick-2638fcd848c341d593dd0c5c5d4cf323) by owlik (https://sketchfab.com/owlik) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)

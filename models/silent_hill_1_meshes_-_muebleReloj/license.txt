@@ -1,0 +1,11 @@
+Model Information:
+* title:	Chest of drawers "Régence"
+* source:	https://sketchfab.com/3d-models/chest-of-drawers-regence-f9e872e24e8948c8a3462806b684a9d8
+* author:	Geoffrey Marchal (https://sketchfab.com/geoffreymarchal)
+
+Model License:
+* license type:	CC-BY-NC-SA-4.0 (http://creativecommons.org/licenses/by-nc-sa/4.0/)
+* requirements:	Author must be credited. No commercial use. Modified versions must have the same license.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Chest of drawers "Régence"" (https://sketchfab.com/3d-models/chest-of-drawers-regence-f9e872e24e8948c8a3462806b684a9d8) by Geoffrey Marchal (https://sketchfab.com/geoffreymarchal) licensed under CC-BY-NC-SA-4.0 (http://creativecommons.org/licenses/by-nc-sa/4.0/)
