@@ -1,0 +1,11 @@
+Model Information:
+* title:	Antique Picture Frame
+* source:	https://sketchfab.com/3d-models/antique-picture-frame-0b25ee4c9e464a5193439504b2901b7e
+* author:	kristinwakeland (https://sketchfab.com/kristinwakeland)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Antique Picture Frame" (https://sketchfab.com/3d-models/antique-picture-frame-0b25ee4c9e464a5193439504b2901b7e) by kristinwakeland (https://sketchfab.com/kristinwakeland) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)

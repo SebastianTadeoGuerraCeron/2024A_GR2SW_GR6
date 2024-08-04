@@ -1,0 +1,11 @@
+Model Information:
+* title:	Saloon - Pocket Watch
+* source:	https://sketchfab.com/3d-models/saloon-pocket-watch-a2267f1b9af7461fbee9031cf1f8f002
+* author:	Adrian H. (https://sketchfab.com/addddy)
+
+Model License:
+* license type:	CC-BY-NC-4.0 (http://creativecommons.org/licenses/by-nc/4.0/)
+* requirements:	Author must be credited. No commercial use.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Saloon - Pocket Watch" (https://sketchfab.com/3d-models/saloon-pocket-watch-a2267f1b9af7461fbee9031cf1f8f002) by Adrian H. (https://sketchfab.com/addddy) licensed under CC-BY-NC-4.0 (http://creativecommons.org/licenses/by-nc/4.0/)
