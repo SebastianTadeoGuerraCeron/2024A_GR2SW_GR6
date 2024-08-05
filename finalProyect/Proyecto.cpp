@@ -123,7 +123,7 @@ int main()
     glEnable(GL_DEPTH_TEST);
 
     // build and compile shaders
-    Shader modelShader("shaders/shader_exercise16_mloading.vs", "shaders/shader_exercise16_mloading.fs");
+    Shader modelShader("shaders/vs_Proyecto.vs", "shaders/fs_Proyecto.fs");
     Shader lampShader("shaders/lamp.vs", "shaders/lamp.fs");
 
     // load models
