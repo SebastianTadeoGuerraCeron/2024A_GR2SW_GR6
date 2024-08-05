@@ -13,3 +13,5 @@ En las siguiente dirección: OpenGL/model
 Clic derecho -- OpenGL/Propiedades/Vinculador/Entrada/Dependencias adicionales
 
 En Dependencias adicionales añadir winmm.lib/Aplicar/Aceptar
+
+Copiar y pegar el contenido del archivo shader.h al correspondiente archivo que se encuentre en OpenGL, en el apartado de learnopengl
