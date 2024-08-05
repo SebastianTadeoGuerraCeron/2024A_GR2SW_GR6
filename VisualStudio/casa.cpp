@@ -9,8 +9,12 @@
 #include <learnopengl/camera.h>
 #include <learnopengl/model.h>
 
+#include <Windows.h>
+#include <mmsystem.h>
+
 #include <iostream>
 #include <vector>
+
 
 #define STB_IMAGE_IMPLEMENTATION 
 #include <learnopengl/stb_image.h>
@@ -161,6 +165,9 @@ int main()
 
     // Declara la variable `model` una vez al inicio
     glm::mat4 model = glm::mat4(1.0f);
+
+    // Reproducir música de fondo (archivo WAV)
+    PlaySound(TEXT("model/terror.wav"), NULL, SND_ASYNC | SND_LOOP); 
 
     // Render loop
     while (!glfwWindowShouldClose(window))
