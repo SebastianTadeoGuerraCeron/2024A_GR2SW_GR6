@@ -1,0 +1,17 @@
+# Pasos para ejecutar las librerías de sonido
+Cargar las librerías:
+Windows.h
+mmsystem.h
+En la siguiente dirección: OpenGL/OpenGL_Stuff/include/learnopengl
+
+# Guardar los sonidos en la carpeta model
+musica.wav
+terror.wav
+En las siguiente dirección: OpenGL/model
+
+# En OpenGL se debe configurar las librerías para que las acepte en la siguiente dirección:
+Clic derecho -- OpenGL/Propiedades/Vinculador/Entrada/Dependencias adicionales
+
+En Dependencias adicionales añadir winmm.lib/Aplicar/Aceptar
+
+Copiar y pegar el contenido del archivo shader.h al correspondiente archivo que se encuentre en OpenGL, en el apartado de learnopengl
