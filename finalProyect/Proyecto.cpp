@@ -123,7 +123,7 @@ int main()
     glEnable(GL_DEPTH_TEST);
 
     // build and compile shaders
-    Shader modelShader("shaders/vs_Proyecto.vs", "shaders/fs_Proyecto.fs");
+    Shader modelShader("shaders/shader_exercise16_mloading.vs", "shaders/shader_exercise16_mloading.fs");
     Shader lampShader("shaders/lamp.vs", "shaders/lamp.fs");
 
     // load models
@@ -135,6 +135,8 @@ int main()
     Model torso("model/torso/torso.obj");
     Model egg("model/egg/easter_egg.obj");
     Model ventana("model/ventana/Ventanas.obj");
+    Model calaveras("model/calaveras/calaveras.obj");
+    Model reloj("model/reloj/reloj.obj");
 
 
 
@@ -231,6 +233,25 @@ int main()
         modelShader.setMat4("model", model);
         casaModel.Draw(modelShader);
 
+        // Renderizar las calaveras
+        calaveras.Draw(modelShader);
+
+        // Renderizar el reloj
+        reloj.Draw(modelShader);
+
+        // CERDO
+
+        // Renderizar el cerdo
+        model = glm::mat4(1.0f);  // Reinicializar la matriz model para el cerdo
+        model = glm::translate(model, glm::vec3(3.62067f, 0.12f, -70.2754f)); // Posición del cerdo
+
+        // Rotar el cerdo para que mire hacia la cámara
+        model = glm::rotate(model, glm::radians(90.0f), glm::vec3(0.0f, 1.0f, 0.0f)); // Rotación de 90 grados alrededor del eje Y para que mire hacia el frente
+
+        model = glm::scale(model, glm::vec3(0.5f, 0.5f, 0.5f));  // Escalar el cerdo
+        modelShader.setMat4("model", model);
+        cerdo.Draw(modelShader);
+
         // Renderizar la primera lámpara
         lampShader.use(); // Usar el shader específico para la lámpara
 
@@ -314,18 +335,7 @@ int main()
         lampModel.Draw(lampShader);
 
         //--------------------------------------------------
-        // CERDO
-
-        // Renderizar el cerdo
-        model = glm::mat4(1.0f);  // Reinicializar la matriz model para el cerdo
-        model = glm::translate(model, glm::vec3(3.62067f, 0.12f, -70.2754f)); // Posición del cerdo
-
-        // Rotar el cerdo para que mire hacia la cámara
-        model = glm::rotate(model, glm::radians(90.0f), glm::vec3(0.0f, 1.0f, 0.0f)); // Rotación de 90 grados alrededor del eje Y para que mire hacia el frente
-
-        model = glm::scale(model, glm::vec3(0.5f, 0.5f, 0.5f));  // Escalar el cerdo
-        modelShader.setMat4("model", model);
-        cerdo.Draw(modelShader);
+        
 
         //---TORSO
         modelShader.use();  // Asegúrate de usar el shader adecuado para el modelo
