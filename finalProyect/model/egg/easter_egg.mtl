@@ -1,0 +1,182 @@
+# Blender 4.2.0 MTL File: 'None'
+# www.blender.org
+
+newmtl Outline
+Ns 0.000000
+Ka 1.000000 1.000000 1.000000
+Kd 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.008149 0.002735 0.002455
+Ni 1.500000
+d 1.000000
+illum 3
+
+newmtl SmolGura
+Ns 0.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ni 1.500000
+d 1.000000
+illum 3
+map_Kd  SmolGura_baseColor.png
+map_Ke  SmolGura_baseColor.png
+
+newmtl Smolame
+Ns 0.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ni 1.500000
+d 1.000000
+illum 3
+map_Kd  Smolame_baseColor.png
+map_Ke  Smolame_baseColor.png
+
+newmtl SmolameEye
+Ns 0.000000
+Ka 1.000000 1.000000 1.000000
+Kd 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ni 1.500000
+d 1.000000
+illum 3
+map_Ke  SmolameHead_baseColor.png
+
+newmtl SmolameHead
+Ns 0.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ni 1.500000
+d 1.000000
+illum 3
+map_Kd  SmolameHead_baseColor.png
+map_Ke  SmolameHead_baseColor.png
+
+newmtl Smolcalli
+Ns 0.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ni 1.500000
+d 1.000000
+illum 3
+map_Kd  Smolcalli_baseColor.png
+map_Ke  Smolcalli_baseColor.png
+
+newmtl SmolcalliEye
+Ns 0.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ni 1.500000
+d 1.000000
+illum 3
+map_Kd  SmolcalliHead_baseColor.png
+map_Ke  SmolcalliHead_baseColor.png
+
+newmtl SmolcalliHead
+Ns 0.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ni 1.500000
+d 1.000000
+illum 3
+map_Kd  SmolcalliHead_baseColor.png
+map_Ke  SmolcalliHead_baseColor.png
+
+newmtl SmolcalliVeil
+Ns 0.000000
+Ka 1.000000 1.000000 1.000000
+Kd 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.009626 0.009626 0.009626
+Ni 1.500000
+d 0.634048
+illum 6
+
+newmtl SmolguraEye
+Ns 0.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ni 1.500000
+d 1.000000
+illum 3
+map_Kd  SmolguraHead_baseColor.png
+map_Ke  SmolguraHead_baseColor.png
+
+newmtl SmolguraHead
+Ns 0.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ni 1.500000
+d 1.000000
+illum 3
+map_Kd  SmolguraHead_baseColor.png
+map_Ke  SmolguraHead_baseColor.png
+
+newmtl SmolinHead
+Ns 0.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ni 1.500000
+d 1.000000
+illum 3
+map_Kd  SmolinHead_baseColor.png
+map_Ke  SmolinHead_baseColor.png
+
+newmtl SmolinaEye
+Ns 0.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ni 1.500000
+d 1.000000
+illum 3
+map_Kd  SmolinHead_baseColor.png
+map_Ke  SmolinHead_baseColor.png
+
+newmtl Smolkiara
+Ns 0.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ni 1.500000
+d 1.000000
+illum 3
+map_Kd  Smolkiara_baseColor.png
+map_Ke  Smolkiara_baseColor.png
+
+newmtl SmolkiaraEye
+Ns 0.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ni 1.500000
+d 1.000000
+illum 3
+map_Kd  SmolkiaraEye_baseColor.png
+map_Ke  SmolkiaraEye_baseColor.png
+
+newmtl SmolkiaraHead
+Ns 0.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ni 1.500000
+d 1.000000
+illum 3
+map_Kd  SmolkiaraHead_baseColor.png
+map_Ke  SmolkiaraHead_baseColor.png
+
+newmtl smolina
+Ns 250.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ni 1.500000
+d 1.000000
+illum 2
+map_Kd  smolina_baseColor.png
+map_Ke  smolina_baseColor.png
+
+newmtl smolinaHair
+Ns 0.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ni 1.500000
+d 1.000000
+illum 3
+map_Kd  smolina_baseColor.png
+map_Ke  smolina_baseColor.png

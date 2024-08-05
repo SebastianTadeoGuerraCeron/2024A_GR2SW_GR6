@@ -1,0 +1,55 @@
+# Blender 3.6.14 MTL File: 'None'
+# www.blender.org
+
+newmtl ClockCase
+Ns 250.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 2
+map_Kd ClockCase_baseColor.png
+map_Bump -bm 1.000000 ClockCase_normal.png
+
+newmtl Clockface
+Ns 250.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+illum 2
+map_Kd Clockface_baseColor.png
+map_d Clockface_baseColor.png
+map_Bump -bm 1.000000 Clockface_normal.png
+
+newmtl Glass
+Ns 811.493347
+Ka 1.000000 1.000000 1.000000
+Kd 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 0.050000
+illum 6
+
+newmtl Material.003
+Ns 250.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 2
+map_Kd Material_baseColor.jpeg
+map_Bump -bm 1.000000 Material_normal.png
+
+newmtl MoonDial
+Ns 250.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 3
+map_Kd MoonDial_baseColor.png
